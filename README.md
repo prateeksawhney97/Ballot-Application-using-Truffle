@@ -1,5 +1,7 @@
 # Voting Ballot DApp
 
+![Screenshot from 2020-07-02 22-10-45](https://user-images.githubusercontent.com/34116562/86387627-107bbf00-bcb1-11ea-8b99-43521be126a6.png)
+
 Building a voting ballot application with 4 NFL Teams such that there is a chairperson who is authorized to register voters. Voters have the permission to vote only after the registration process.
 
 <small> The smart contract used is based on the example in solidity docs </small>
